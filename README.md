@@ -1,5 +1,8 @@
 # Algorithmics SAT Part 3: Advanced Algorithmic Design
 
+## Repo intro:
+This was my SAT for Unit 4 VCE Algorithmics, below is a report submitted alongside. The code can be very buggy but the emphasis for this task was more on the report.
+
 ## 1. Improved Algorithm design
 
 ### A* Algorithm (SSSP)
